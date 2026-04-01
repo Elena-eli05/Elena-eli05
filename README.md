@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I am Elena Elizebeth Cherian 👋
 
-<!--
-**Elena-eli05/Elena-eli05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Computer Engineering Student  
+💡 Interested in Embedded Systems, IoT, Machine learning and VLSI chip design.  
+🚀 Currently working on: AI based Front Blind Zone detection in heavy vehicles. 
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- C, Python
+- Verilog
+- Arduino, ESP
+- Digital Electronics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🔹 AI based Front Blind Zone detection in heavy vehicles
+- 🔹 Water Level Controller (ESP-based)
+- 🔹 Elevator FSM (Verilog)
+- 🔹 Obstacle avoiding robot
+- 🔹 Line follower robot
+- 🔹 Digital Clock (Verilog)
+- 🔹 Emotion detecting music player
+
+
+## 📫 Contact Me
+- Email: elenaelizebethcherian@gmail.com
+- LinkedIn: www.linkedin.com/in/elena-elizabeth-cherian-a32779292
